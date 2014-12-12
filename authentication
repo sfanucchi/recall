@@ -1,0 +1,9 @@
+{
+"key": "046c62c1acfbd4cc0d007b8009b185df73828b53",
+"request": {
+"module": "staff.login",
+"method": "GET",
+"username": "sfanucchi@google.com",
+"password": "password1"
+}
+}
