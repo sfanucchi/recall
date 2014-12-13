@@ -12,7 +12,7 @@ window.addEventListener("Load",sdk_loader, false);
 window.attachEvent("onload", sdk_loader);
 }
 sp.init({'appKey': '046c62c1acfbd4cc0d007b8009b185df73828b53'});
-sp.login({'username': "sfanucchi@store-ops.com", 'password': "password1"},
+sp.login({'username': "xxxxxxxx", 'password': "xxxxxxxx"},
 function( data, status_code, status_message, error_detail )
 {if ( status_code ==1 )
 {
